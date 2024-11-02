@@ -26,8 +26,14 @@
 ### Database
 - **MongoDB (Atlas)**: Cloud database for storing user data and blueprints.
 
+### User Authentication and Login
+- **JWT (JSON Web Tokens)**: Token-based authentication for secure user login and route protection.
+- **OAuth2 (FastAPI)**: Manages token generation and user credential verification.
+- **Passlib**: Password hashing and verification for secure user data handling.
+
 ## Key Features
 - **AI-Powered Blueprint Creation**: Generate unique designs with ML models.
 - **Interactive Editing**: Real-time blueprint customization.
 - **3D Model Export**: Save designs as OBJ files.
+- **User Authentication**: Secure login system with JWT-based access tokens.
 - **Comprehensive API**: FastAPI ensures smooth backend/frontend integration.
