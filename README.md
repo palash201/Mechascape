@@ -4,6 +4,9 @@
 ## Overview
 **Mechascape** is an AI-powered tool for creating, modifying, and visualizing steampunk-inspired blueprints and 3D models through a user-friendly interface.
 
+### Frontend repository: https://github.com/palash201/Mechascape-Frontend
+### Backend repository: https://github.com/palash201/Mechascape-Backend
+
 ## Technology Stack
 
 ### Frontend
